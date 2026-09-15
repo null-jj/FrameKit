@@ -24,7 +24,7 @@
     "test:integration": "node ../../scripts/verify-storage-services.mjs"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "3.1124.0",
+    "@aws-sdk/client-s3": "3.1131.0",
     "@framekit/core": "workspace:*",
     "@framekit/runtime": "workspace:*",
     "postgres": "^3.4.9"
